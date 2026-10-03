@@ -1,0 +1,12 @@
+# IT171IU
+
+## Thông tin sinh viên
+- **Họ tên:** Lê Thái Đức Tùng
+- **MSSV:** ITDSIU24055
+- **Lớp/nhóm:** IT171IU – Lab Group 01
+
+## Cách chạy notebook
+1. Mở file `IT171IU_Lab01_LeThaiDucTung_ITDSIU24055.ipynb` bằng Google Colab
+   (hoặc Jupyter / VS Code với Python 3.12).
+2. Chọn Runtime → Restart session and run all.
+3. Các thư viện cần: numpy, pandas, matplotlib.
